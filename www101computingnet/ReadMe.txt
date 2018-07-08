@@ -1,3 +1,2 @@
-This folder consists of the scripts given in this website
+The algorithm(s) given in this website(http://www.101computing.net) are converted into the Python scripts.
 
-http://www.101computing.net
